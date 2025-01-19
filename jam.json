@@ -1,11 +1,10 @@
 {
-    "FM_TEST": {
-        "Bandwidth": "10MHz", 
-        "Freq": 924e5
-    },
-    "FM_TEST2": {
+    "ARFCN650d": {
         "Bandwidth": "20MHz", 
-        "Freq": 10e5
-    }    
+        "Freq": 18328e5
+    },
+    "PGSM116d": {
+        "Bandwidth": "5MHz", 
+        "Freq": 9582e5
+    }
 }
-
